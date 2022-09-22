@@ -1,5 +1,5 @@
 print("Coding is easy...") 
 
-HAHA NOT.....
+print("HAHA NOT.....")
 
-Its tough.
+print("Its tough.")
