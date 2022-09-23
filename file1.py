@@ -4,6 +4,6 @@ print("HAHA NOT.....")
 
 print("Its tough.")
 
-x = 1 +2
+x = 5 + 5
 num = x
 print(num)
